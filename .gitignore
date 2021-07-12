@@ -1,2 +1,7 @@
 __pycache__
 app/__pycache__
+migrations/__pycache__
+app/admin/__pycache__
+app/auth/__pycache__
+app/home/__pycache__
+migrations/versions/__pycache__
